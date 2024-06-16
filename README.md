@@ -6,7 +6,7 @@
 <p>Um conversor de moedas que eu fiz utilizando:<p>
 <ul>
   <li>
-    <a href="https://react.dev/">ReactJS</a>
+    <a href="https://react.dev/">ReactJS (hooks useState, useEffect)</a>
   </li>
   <li>
     <a href="https://styled-components.com/">Styled components</a>
